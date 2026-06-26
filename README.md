@@ -6,7 +6,9 @@ Java and React assignments completed as part of Cognizant training.
 
 ### Output
 
+```text
 Logger Created
 First Message
 Second Message
 Only one instance exists
+```
